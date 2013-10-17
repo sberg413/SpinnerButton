@@ -1,0 +1,1 @@
+This project exemplifies how to style a Android Button like a Spinner for the purpose of using a hint or for general styling purposes.
